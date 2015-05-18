@@ -8,7 +8,7 @@ subtitle: Physics. Space. Sarcasm. Geek. Just-another-unique-snowflake
 description:
 author: Vipin Nair
 email: vipinsthename@gmail.com
-language:
+language: default
 timezone:
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: persona-color
+theme: next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
