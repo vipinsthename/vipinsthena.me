@@ -14,7 +14,7 @@ favicon: /favicon.ico
 avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAJ6AAAAJGY4ZWYzNzU3LTUzZWItNDE0YS04OWQ5LWQ4ZTZjMTlkMTYxZg.jpg
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo,next"
+keywords: "DevOps,AWS,Docker,Chef,Ansible"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -49,8 +49,8 @@ mathjax:
 #  - post    expand on posts automatically. Default.
 #  - always  expand for all pages automatically
 #  - hide    expand only when click on the sidebar toggle icon.
-sidebar: post
-#sidebar: always
+#sidebar: post
+sidebar: always
 #sidebar: hide
 
 social:
