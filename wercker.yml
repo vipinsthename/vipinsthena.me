@@ -4,7 +4,7 @@ no-response-timeout: 10
 build:
   steps:
     - grunt:
-        tasks: test
+        tasks: generate
 
 deploy:
     steps:
