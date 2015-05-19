@@ -2,10 +2,9 @@ box: wercker/nodejs
 no-response-timeout: 10
 
 build:
-    steps:
-        # Execute the grunt task
-        - grunt
-            tasks: generate
+  steps:
+    - grunt:
+        tasks: test
 
 deploy:
     steps:
