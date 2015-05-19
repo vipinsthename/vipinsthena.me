@@ -10,9 +10,9 @@ build:
 deploy:
     steps:
         - script:
-        name: install hexo globally
-        code: |
-          sudo npm install -g hexo
+            name: install hexo globally
+            code: |
+                sudo npm install -g hexo
         - s3sync:
             key_id: $AWS_ACCESS_KEY_ID
             key_secret: $AWS_SECRET_ACCESS_KEY
