@@ -3,13 +3,13 @@ no-response-timeout: 10
 
 build:
   steps:
+    - npm-install -g hexo
     - npm-install
     - grunt:
         tasks: generate
 
 deploy:
     steps:
-        # Execute the s3sync deploy step, a step provided by wercker
         - s3sync:
             key_id: $AWS_ACCESS_KEY_ID
             key_secret: $AWS_SECRET_ACCESS_KEY
