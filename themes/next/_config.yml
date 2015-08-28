@@ -11,7 +11,7 @@ menu:
 # Place your favicon.ico to /source directory.
 favicon: /favicon.ico
 
-avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAJ6AAAAJGY4ZWYzNzU3LTUzZWItNDE0YS04OWQ5LWQ4ZTZjMTlkMTYxZg.jpg
+avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAXqAAAAJGMwMDEzMjNlLTBjNGQtNDJjOS1iY2Y2LTlhYzg4NGE1M2RjOQ.jpg
 
 # Set default keywords (Use a comma to separate)
 keywords: "DevOps,AWS,Docker,Chef,Ansible"
