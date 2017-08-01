@@ -1,0 +1,48 @@
+body {
+    color: #373737;
+    font-size: 16px;
+    font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    background-color: #282A36;
+}
+
+.about {
+    margin: 1em auto;
+    margin-top: 3em;
+    width: 640px;
+    font-family: monospace;
+}
+
+a:link{
+    color: #F1FA8C;
+    text-decoration: underline;
+}
+
+a:hover{
+    color: #007edf;
+    text-decoration: underline;
+}
+
+a:active{
+    color: #4BFA7B;
+    text-decoration: underline;
+}
+
+.dracula-yaml-key {
+    font-weight: bold;
+    color: #8BE9FD;
+}
+
+.dracula-yaml-colon {
+    font-weight: bold;
+    color: #FF79C6;
+}
+
+.dracula-yaml-values {
+    color: #F1FA8C;
+}
+
+.dracula-yaml-hyphen {
+    color: #E7E7E3;
+}
